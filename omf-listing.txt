@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/james2doyle/omf-plugin-sail
+maintainer = james2doyle
+description = Laravel sail completions
